@@ -1,0 +1,2 @@
+# kanato
+fun
